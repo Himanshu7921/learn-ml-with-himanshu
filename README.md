@@ -54,7 +54,7 @@ By the end of this course, you’ll have built:
 ## 🧰 Folder Structure Explained
 
 ```bash
-ml-course-by-himanshu/
+learn-ml-with-himanshu/
 │
 ├── 📘 README.md                  # You're here – main guide to the repo
 ├── 📌 ROADMAP.md                 # Full structured learning roadmap (with phases)
